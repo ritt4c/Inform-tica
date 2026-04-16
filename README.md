@@ -10,5 +10,6 @@ Trabalho executado via Canva: Animações e Figuras
 [despesa_funcao.xlsx](https://github.com/user-attachments/files/25957116/despesa_funcao.xlsx)
 <img width="1622" height="526" alt="image" src="https://github.com/user-attachments/assets/23e36939-44db-470f-9bbf-b99d3780177e" />
 ## ATIVIDADE FORNECEDORES
-[fornecedores.xlsx](https://github.com/user-attachments/files/26642341/fornecedores.xlsx)
-<img width="1141" height="500" alt="image" src="https://github.com/user-attachments/assets/9ae810f9-0f01-4de4-83ec-f57392061e37" />
+[fornecedores (1).xlsx](https://github.com/user-attachments/files/26766915/fornecedores.1.xlsx)
+<img width="1403" height="610" alt="image" src="https://github.com/user-attachments/assets/83a5805e-c781-4215-becf-d4d3fceed190" />
+
