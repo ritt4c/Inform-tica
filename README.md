@@ -14,6 +14,7 @@ Trabalho executado via Canva: Animações e Figuras
 <img width="1403" height="610" alt="image" src="https://github.com/user-attachments/assets/83a5805e-c781-4215-becf-d4d3fceed190" />
 ## ATIVIDADE MULTAS PAGAS
 <img width="1717" height="838" alt="image" src="https://github.com/user-attachments/assets/a56303f9-28eb-4745-9e7f-d40afa152457" />
+
 ## CURSO CRIANDO TRABALHOS ACADEMICOS COM FERRAMENTAS DIGITAIS 
 <img width="1193" height="292" alt="image" src="https://github.com/user-attachments/assets/6428875b-fe06-4fb4-a21a-04d4de42d657" />
 <img width="753" height="531" alt="image" src="https://github.com/user-attachments/assets/1ed4ec59-c28c-47c6-8f4e-9d221295b02d" />
