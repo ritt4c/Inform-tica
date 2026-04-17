@@ -17,6 +17,7 @@ Trabalho executado via Canva: Animações e Figuras
 <img width="1717" height="838" alt="image" src="https://github.com/user-attachments/assets/a56303f9-28eb-4745-9e7f-d40afa152457" />
 
 ## CURSO CRIANDO TRABALHOS ACADEMICOS COM FERRAMENTAS DIGITAIS 
+https://aprendamais.mec.gov.br/course/view.php?id=3060
 <img width="1193" height="292" alt="image" src="https://github.com/user-attachments/assets/6428875b-fe06-4fb4-a21a-04d4de42d657" />
 <img width="753" height="531" alt="image" src="https://github.com/user-attachments/assets/1ed4ec59-c28c-47c6-8f4e-9d221295b02d" />
 <img width="1398" height="229" alt="image" src="https://github.com/user-attachments/assets/98a038eb-6eb8-40a3-9b52-e2bb57cfa14d" />
