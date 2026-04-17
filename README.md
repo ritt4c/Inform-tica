@@ -13,6 +13,7 @@ Trabalho executado via Canva: Animações e Figuras
 [fornecedores (1).xlsx](https://github.com/user-attachments/files/26766915/fornecedores.1.xlsx)
 <img width="1403" height="610" alt="image" src="https://github.com/user-attachments/assets/83a5805e-c781-4215-becf-d4d3fceed190" />
 ## ATIVIDADE MULTAS PAGAS
+[multas_pagas.xlsx](https://github.com/user-attachments/files/26806237/multas_pagas.xlsx)
 <img width="1717" height="838" alt="image" src="https://github.com/user-attachments/assets/a56303f9-28eb-4745-9e7f-d40afa152457" />
 
 ## CURSO CRIANDO TRABALHOS ACADEMICOS COM FERRAMENTAS DIGITAIS 
