@@ -22,3 +22,6 @@ https://aprendamais.mec.gov.br/course/view.php?id=3060
 <img width="753" height="531" alt="image" src="https://github.com/user-attachments/assets/1ed4ec59-c28c-47c6-8f4e-9d221295b02d" />
 <img width="1398" height="229" alt="image" src="https://github.com/user-attachments/assets/98a038eb-6eb8-40a3-9b52-e2bb57cfa14d" />
 
+## DADOS ABERTOS DE ADMISSÃO E DEMISSÃO EM SP DE 2020 A 2025
+
+<img width="1275" height="716" alt="image" src="https://github.com/user-attachments/assets/b5d05aa5-e678-44dc-bcff-9db7da994390" />
