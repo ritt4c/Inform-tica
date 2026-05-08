@@ -25,3 +25,4 @@ https://aprendamais.mec.gov.br/course/view.php?id=3060
 ## DADOS ABERTOS DE ADMISSÃO E DEMISSÃO EM SP DE 2020 A 2025
 
 <img width="1275" height="716" alt="image" src="https://github.com/user-attachments/assets/b5d05aa5-e678-44dc-bcff-9db7da994390" />
+<img width="1313" height="850" alt="image" src="https://github.com/user-attachments/assets/fda663c8-e768-491c-8ccc-e0118c98a56a" />
