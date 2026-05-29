@@ -25,4 +25,11 @@ https://aprendamais.mec.gov.br/course/view.php?id=3060
 ## DADOS ABERTOS DE ADMISSÃO E DEMISSÃO EM SP DE 2020 A 2025
 
 <img width="1275" height="716" alt="image" src="https://github.com/user-attachments/assets/b5d05aa5-e678-44dc-bcff-9db7da994390" />
+
+## PROVA INFORMÁTICA 28/05
+
+
+[piesp_captados.xlsx](https://github.com/user-attachments/files/28374994/piesp_captados.xlsx)
+[PowerBi_Rita.pbix.zip](https://github.com/user-attachments/files/28374986/PowerBi_Rita.pbix.zip)
+<img width="633" height="442" alt="image" src="https://github.com/user-attachments/assets/22d70fcd-ff6c-4bbf-a38e-64ab20d10a46" /
 <img width="1313" height="850" alt="image" src="https://github.com/user-attachments/assets/fda663c8-e768-491c-8ccc-e0118c98a56a" />
