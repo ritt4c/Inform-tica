@@ -56,5 +56,6 @@ Logo após levamos ao google colap (payton) na biblioteca pandas para obtermos a
 ## PROVA INFORMÁTICA 28/05
 [piesp_captados.xlsx](https://github.com/user-attachments/files/28374994/piesp_captados.xlsx)
 [PowerBi_Rita.pbix.zip](https://github.com/user-attachments/files/28374986/PowerBi_Rita.pbix.zip)
+<img width="1139" height="720" alt="image" src="https://github.com/user-attachments/assets/d56ff9b5-7554-46b7-84b2-73e4bfa73b70" />
 <img width="633" height="442" alt="image" src="https://github.com/user-attachments/assets/22d70fcd-ff6c-4bbf-a38e-64ab20d10a46" /
 <img width="1313" height="850" alt="image" src="https://github.com/user-attachments/assets/fda663c8-e768-491c-8ccc-e0118c98a56a" />
