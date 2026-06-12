@@ -44,7 +44,7 @@ RESPOSTA: O ano foi 2025 e o mês de Fevereiro.
 RESPOSTA: O ano foi 2020 e o mês foi Maio.
 <img width="979" height="559" alt="image" src="https://github.com/user-attachments/assets/baf80eda-dade-4a43-88e2-6b706dabdf66" />
 
-## INTRODUÇÃO A REGREÇÃO LINEAR
+## INTRODUÇÃO A REGRESSÃO LINEAR
 Dados kaggles Conjunto de dados/Temperatura e vendas de sorvete editamos no "Excel" para obtermos o Y=0,7083 + 47,843
 <img width="1009" height="413" alt="image" src="https://github.com/user-attachments/assets/730cde5a-5fc0-4d03-850a-3de0cdfbb135" />
 Logo após levamos ao google colap (payton) na biblioteca pandas para obtermos a regressão linear e o coeficiente -0,67
